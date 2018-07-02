@@ -1,4 +1,4 @@
-language: java
+language: javacx
 jdk:
  - oraclejdk8
 script: mvn clean install --batch-mode
